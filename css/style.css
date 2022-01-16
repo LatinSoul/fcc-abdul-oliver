@@ -1,9 +1,17 @@
 #navbar {
     background-color: #BE3144;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
 }
 #welcome-section {
     background-color: #323436;
     color:#fff;
+    height: 100vh;
 }
 
+
+@media screen and (max-width: 640px){
+    
+}
 
